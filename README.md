@@ -1,10 +1,10 @@
 # NeTPy
 
-This is example of Simpy 3 simulation. 
+                    This is example of Simpy 3 simulation. 
 
-SimPy simulation with the starting idea below:
-##
-                               SimPy environment
+                SimPy 3 simulation with the starting idea below:
+
+                                SimPy environment
                                     (Switch)
                +-----------+            |            +-----------+
                |           |            |            |           |
@@ -12,3 +12,5 @@ SimPy simulation with the starting idea below:
                |           |          Queue          |           |
                +-----------+            |            +-----------+
                 Process RX              |              Process TX
+                                                                  
+                                                                  
