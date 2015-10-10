@@ -1,6 +1,6 @@
 #                                     NeTPy
 
-                    This is example of Simpy 3 simulation. 
+                    This is example of SimPy 3 simulation. 
 
                 SimPy 3 simulation with the starting idea below:
 
