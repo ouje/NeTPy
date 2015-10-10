@@ -1,4 +1,4 @@
-                                  # NeTPy
+#                                     NeTPy
 
                     This is example of Simpy 3 simulation. 
 
